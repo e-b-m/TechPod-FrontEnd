@@ -7,7 +7,7 @@ const Landing = () => {
         src={require("/Users/emma/techpod_frontend/src/images/TechPodLogo.png")}
         className="logo"
       ></img>
-      <h1>Welcome to TechPod</h1>
+      {/* <h1>Welcome to TechPod</h1> */}
     </div>
   );
 };
